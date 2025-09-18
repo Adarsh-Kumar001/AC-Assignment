@@ -1,5 +1,245 @@
 [
   {
+    "id": "cmfpm6ius004345hmi74fqkd1",
+    "timestamp": "2025-09-18T16:18:56.078Z",
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello, I’m MediBot, your medical intake assistant. How can I help you today? If you’d like me to look up your medical record, could you please provide your medical ID?"
+      ],
+      [
+        "user",
+        "M e d one zero zero one."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. Could you please confirm your medical ID number again? It should be in the format provided by your clinic or healthcare provider."
+      ],
+      [
+        "user",
+        "Check if the user is still there."
+      ],
+      [
+        "assistant",
+        "Are you still there? If so, please let me know your medical ID so I can assist"
+      ],
+      [
+        "user",
+        "M e d one zero zero one."
+      ],
+      [
+        "assistant",
+        "Thank you. Could you please clarify if your medical ID is \"MED1001\"? If that's correct, I'll proceed to look up your record. If not, please provide the exact ID as it appears on your card or paperwork."
+      ],
+      [
+        "user",
+        "Yes. It's correct."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. It seems"
+      ]
+    ],
+    "duration": 77681,
+    "metadata": {
+      "from": "Web-Client-1167",
+      "to": "Web-Call-1167",
+      "type": "webcall"
+    },
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfpm6ius004345hmi74fqkd1",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "user_ended_call",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T16:17:35.477Z",
+      "endedAt": "2025-09-18T16:18:53.158Z",
+      "transcript": [
+        [
+          "user",
+          "Introduce yourself and ask user how can you help today"
+        ],
+        [
+          "assistant",
+          "Hello, I’m MediBot, your medical intake assistant. How can I help you today? If you’d like me to look up your medical record, could you please provide your medical ID?"
+        ],
+        [
+          "user",
+          "M e d one zero zero one."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Sorry, I couldn't process that request. Could you please confirm your medical ID number again? It should be in the format provided by your clinic or healthcare provider."
+        ],
+        [
+          "user",
+          "Check if the user is still there."
+        ],
+        [
+          "assistant",
+          "Are you still there? If so, please let me know your medical ID so I can assist"
+        ],
+        [
+          "user",
+          "M e d one zero zero one."
+        ],
+        [
+          "assistant",
+          "Thank you. Could you please clarify if your medical ID is \"MED1001\"? If that's correct, I'll proceed to look up your record. If not, please provide the exact ID as it appears on your card or paperwork."
+        ],
+        [
+          "user",
+          "Yes. It's correct."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Sorry, I couldn't process that request. It seems"
+        ]
+      ],
+      "summary": "MediBot introduced itself as a medical intake assistant and asked the user for their medical ID to look up their record. The user provided the ID “MED1001” and confirmed it’s correct. The assistant acknowledged the ID but then encountered an processing issue and did not complete the lookup.",
+      "isSuccessful": false
+    }
+  },
+  {
+    "id": "cmfpm34r0004145hmourx076x",
+    "timestamp": "2025-09-18T16:15:09.428Z",
+    "transcript": [],
+    "duration": 9055,
+    "metadata": {
+      "from": "Web-Client-1167",
+      "to": "Web-Call-1167",
+      "type": "webcall"
+    },
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfpm34r0004145hmourx076x",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "pre_call_webhook_failed",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T16:14:57.228Z",
+      "endedAt": "2025-09-18T16:15:06.283Z",
+      "transcript": [],
+      "summary": "Call failed: pre_call_webhook_failed"
+    }
+  },
+  {
+    "id": "cmfplwh5m003x45hm0i0mbdpj",
+    "timestamp": "2025-09-18T16:09:56.654Z",
+    "transcript": [],
+    "duration": 7302,
+    "metadata": {
+      "from": "Web-Client-1167",
+      "to": "Web-Call-1167",
+      "type": "webcall"
+    },
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfplwh5m003x45hm0i0mbdpj",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "pre_call_webhook_failed",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T16:09:46.714Z",
+      "endedAt": "2025-09-18T16:09:54.016Z",
+      "transcript": [],
+      "summary": "Call failed: pre_call_webhook_failed"
+    }
+  },
+  {
+    "id": "cmfplta1v003t45hm00om35v1",
+    "timestamp": "2025-09-18T16:07:29.132Z",
+    "transcript": [],
+    "duration": 9108,
+    "metadata": {
+      "from": "Web-Client-1167",
+      "to": "Web-Call-1167",
+      "type": "webcall"
+    },
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfplta1v003t45hm00om35v1",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "pre_call_webhook_failed",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T16:07:17.539Z",
+      "endedAt": "2025-09-18T16:07:26.647Z",
+      "transcript": [],
+      "summary": "Call failed: pre_call_webhook_failed"
+    }
+  },
+  {
+    "id": "cmfplsb9c003r45hmnjek79at",
+    "timestamp": "2025-09-18T16:06:45.744Z",
+    "transcript": [],
+    "duration": 10064,
+    "metadata": {
+      "from": "Web-Client-1167",
+      "to": "Web-Call-1167",
+      "type": "webcall"
+    },
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfplsb9c003r45hmnjek79at",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "pre_call_webhook_failed",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T16:06:32.448Z",
+      "endedAt": "2025-09-18T16:06:42.512Z",
+      "transcript": [],
+      "summary": "Call failed: pre_call_webhook_failed"
+    }
+  },
+  {
     "id": "call-1758201137212",
     "timestamp": "2025-09-18T13:12:17.212Z",
     "transcript": [

@@ -1,8 +1,8 @@
 import { NextResponse } from 'next/server'
 
 const db: Record<string, any> = {
-  'MED-1001': { id: 'MED-1001', name: 'Asha Verma', age: 34, allergies: ['Penicillin'], meds: ['Amlodipine'], lastVisit: '2025-09-01' },
-  'MED-1002': { id: 'MED-1002', name: 'Rohit Sharma', age: 45, allergies: [], meds: [], lastVisit: '2025-07-10' }
+  'MED-1001': { id: 'MED-1001', name: 'Adarsh', age: 34, allergies: ['Some flower'], meds: ['Paracetamol'], lastVisit: '2025-09-01' },
+  'MED-1002': { id: 'MED-1002', name: 'Kumar', age: 45, allergies: [], meds: [], lastVisit: '2025-07-10' }
 }
 
 function normalizeId(input: string) {
