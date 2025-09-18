@@ -1,0 +1,674 @@
+[
+  {
+    "id": "call-1758201137212",
+    "timestamp": "2025-09-18T13:12:17.212Z",
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello! I’m MediBot, your friendly medical intake assistant. How can I help you today? May I please have your medical ID to get started?"
+      ],
+      [
+        "user",
+        "M e d one zero zero one"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Thank you for providing your medical ID. I found your record: you are Asha Verma, 34 years old, allergic to Penicillin, and your last visit was on 2025-09-01. You are currently taking Amlodipine.\n\nHow can I assist you further today? Would you like to schedule a follow-up or is there something specific you’d like to discuss?"
+      ],
+      [
+        "user",
+        "Check if the user is still there."
+      ],
+      [
+        "assistant",
+        "Are you still there, Asha?"
+      ],
+      [
+        "user",
+        "What is insulin."
+      ],
+      [
+        "assistant",
+        "Sorry, I don't have that information. I can only provide details from your medical record or help with scheduling and intake. If you have questions about your health or medications, please consult your healthcare provider."
+      ],
+      [
+        "user",
+        "Mortise penicillin."
+      ],
+      [
+        "assistant",
+        "I see that you mentioned \"Mortise penicillin.\" Could you please clarify your request? If"
+      ]
+    ],
+    "duration": null,
+    "metadata": {},
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfpfii99002745hmqiqoxkug",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "user_ended_call",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T13:10:57.261Z",
+      "endedAt": "2025-09-18T13:12:15.034Z",
+      "transcript": [
+        [
+          "user",
+          "Introduce yourself and ask user how can you help today"
+        ],
+        [
+          "assistant",
+          "Hello! I’m MediBot, your friendly medical intake assistant. How can I help you today? May I please have your medical ID to get started?"
+        ],
+        [
+          "user",
+          "M e d one zero zero one"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Thank you for providing your medical ID. I found your record: you are Asha Verma, 34 years old, allergic to Penicillin, and your last visit was on 2025-09-01. You are currently taking Amlodipine.\n\nHow can I assist you further today? Would you like to schedule a follow-up or is there something specific you’d like to discuss?"
+        ],
+        [
+          "user",
+          "Check if the user is still there."
+        ],
+        [
+          "assistant",
+          "Are you still there, Asha?"
+        ],
+        [
+          "user",
+          "What is insulin."
+        ],
+        [
+          "assistant",
+          "Sorry, I don't have that information. I can only provide details from your medical record or help with scheduling and intake. If you have questions about your health or medications, please consult your healthcare provider."
+        ],
+        [
+          "user",
+          "Mortise penicillin."
+        ],
+        [
+          "assistant",
+          "I see that you mentioned \"Mortise penicillin.\" Could you please clarify your request? If"
+        ]
+      ],
+      "summary": "Summary: The MediBot intake assistant retrieved the patient record for Asha Verma (34), noting a penicillin allergy, last visit on 2025-09-01, and current medication Amlodipine, and asked how to assist further. The user inquired about insulin and clarified a request regarding penicillin, but full clarification was not provided.",
+      "isSuccessful": false
+    }
+  },
+  {
+    "id": "call-1758200996678",
+    "timestamp": "2025-09-18T13:09:56.678Z",
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello! I’m MediBot, your friendly medical intake assistant. How can I help you today? May I please have your medical ID to get started?"
+      ],
+      [
+        "user",
+        "M e d one zero zero one"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. Could you please confirm your medical ID for me? It might help if you spell it out again or provide any additional details. Thank you!"
+      ],
+      [
+        "user",
+        "m e d one zero zero one"
+      ],
+      [
+        "assistant",
+        "Thank you for providing your medical ID. I will now look up your medical record. One moment, please."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. It seems there may be an issue with the medical ID format. Could you please double-check your medical ID and provide it again? If you have it written down or on a card, you can read it exactly as shown. Thank you!"
+      ],
+      [
+        "user",
+        "m e d one zero zero one"
+      ],
+      [
+        "assistant",
+        "Thank you for repeating your medical ID. It seems there might be a problem with how I'm receiving it. Could you please clarify: is your medical ID written as \"MED1001\" or in a different format? If possible, please provide it exactly as it appears on your card or document. This will help me find your record more accurately. Thank you!"
+      ],
+      [
+        "user",
+        "m e d dash one zero zero one"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. It"
+      ]
+    ],
+    "duration": null,
+    "metadata": {},
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfpfetf0002545hmcjb6wgqr",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "user_ended_call",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T13:08:05.100Z",
+      "endedAt": "2025-09-18T13:09:54.700Z",
+      "transcript": [
+        [
+          "user",
+          "Introduce yourself and ask user how can you help today"
+        ],
+        [
+          "assistant",
+          "Hello! I’m MediBot, your friendly medical intake assistant. How can I help you today? May I please have your medical ID to get started?"
+        ],
+        [
+          "user",
+          "M e d one zero zero one"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Sorry, I couldn't process that request. Could you please confirm your medical ID for me? It might help if you spell it out again or provide any additional details. Thank you!"
+        ],
+        [
+          "user",
+          "m e d one zero zero one"
+        ],
+        [
+          "assistant",
+          "Thank you for providing your medical ID. I will now look up your medical record. One moment, please."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Sorry, I couldn't process that request. It seems there may be an issue with the medical ID format. Could you please double-check your medical ID and provide it again? If you have it written down or on a card, you can read it exactly as shown. Thank you!"
+        ],
+        [
+          "user",
+          "m e d one zero zero one"
+        ],
+        [
+          "assistant",
+          "Thank you for repeating your medical ID. It seems there might be a problem with how I'm receiving it. Could you please clarify: is your medical ID written as \"MED1001\" or in a different format? If possible, please provide it exactly as it appears on your card or document. This will help me find your record more accurately. Thank you!"
+        ],
+        [
+          "user",
+          "m e d dash one zero zero one"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Sorry, I couldn't process that request. It"
+        ]
+      ],
+      "summary": "The call is a medical intake: MediBot asks the user for their medical ID to retrieve their record. The user provides variations of \"MED1001\" but the system repeatedly reports processing/format issues and asks for the ID to be confirmed or provided exactly as it appears (including potential dash formats). The conversation ends with ongoing trouble processing the medical ID.",
+      "isSuccessful": false
+    }
+  },
+  {
+    "id": "call-1758200862697",
+    "timestamp": "2025-09-18T13:07:42.697Z",
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello! I’m MediBot, your friendly medical intake assistant. How can I help you today? May I please have your medical ID to get started?"
+      ],
+      [
+        "user",
+        "M p d one zero zero one"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "user",
+        "m p d zero zero one."
+      ],
+      [
+        "user",
+        "M p d Not p. It's p. M e d zero zero"
+      ],
+      [
+        "user",
+        "m e d one zero zero one."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. Could you please confirm your medical ID one more time? Please say it slowly, one letter and number at a time."
+      ],
+      [
+        "user",
+        "M e b b d d."
+      ],
+      [
+        "assistant",
+        "Thank you for providing your medical ID. Just to confirm, is your medical ID \"M E B B D D\"? If that is correct, please let me know, or you can repeat it slowly to ensure I have it right."
+      ]
+    ],
+    "duration": null,
+    "metadata": {},
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfpfcnjf002345hmo95jz6ua",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "user_ended_call",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T13:06:24.171Z",
+      "endedAt": "2025-09-18T13:07:40.811Z",
+      "transcript": [
+        [
+          "user",
+          "Introduce yourself and ask user how can you help today"
+        ],
+        [
+          "assistant",
+          "Hello! I’m MediBot, your friendly medical intake assistant. How can I help you today? May I please have your medical ID to get started?"
+        ],
+        [
+          "user",
+          "M p d one zero zero one"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "user",
+          "m p d zero zero one."
+        ],
+        [
+          "user",
+          "M p d Not p. It's p. M e d zero zero"
+        ],
+        [
+          "user",
+          "m e d one zero zero one."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Sorry, I couldn't process that request. Could you please confirm your medical ID one more time? Please say it slowly, one letter and number at a time."
+        ],
+        [
+          "user",
+          "M e b b d d."
+        ],
+        [
+          "assistant",
+          "Thank you for providing your medical ID. Just to confirm, is your medical ID \"M E B B D D\"? If that is correct, please let me know, or you can repeat it slowly to ensure I have it right."
+        ]
+      ],
+      "summary": "MediBot introduced itself as a medical intake assistant and asked the user for their medical ID to proceed. The user provided several garbled attempts before the assistant asked for a slower, letter-by-letter input. The user ultimately provided \"MEBBDD\" and the assistant confirmed the medical ID.",
+      "isSuccessful": true
+    }
+  },
+  {
+    "id": "call-1758200733393",
+    "timestamp": "2025-09-18T13:05:33.393Z",
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello! My name is MediBot, your friendly medical intake assistant. How can I help you today? If you’d like to access your medical record or schedule a visit, please let me know."
+      ],
+      [
+        "user",
+        "Nope."
+      ],
+      [
+        "assistant",
+        "Alright, no problem! If you need any assistance in the future or have any questions, feel free to reach out. Have a great day!"
+      ]
+    ],
+    "duration": null,
+    "metadata": {},
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfpfap8g002045hmgmmk34v8",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "user_ended_call",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T13:04:53.054Z",
+      "endedAt": "2025-09-18T13:05:31.494Z",
+      "transcript": [
+        [
+          "user",
+          "Introduce yourself and ask user how can you help today"
+        ],
+        [
+          "assistant",
+          "Hello! My name is MediBot, your friendly medical intake assistant. How can I help you today? If you’d like to access your medical record or schedule a visit, please let me know."
+        ],
+        [
+          "user",
+          "Nope."
+        ],
+        [
+          "assistant",
+          "Alright, no problem! If you need any assistance in the future or have any questions, feel free to reach out. Have a great day!"
+        ]
+      ],
+      "summary": "Summary:\n- The assistant introduces itself as MediBot, a medical intake assistant, and asks how it can help (e.g., accessing records or scheduling).\n- The user declines and says \"Nope.\"\n- The assistant responds with an offer to help in the future and closes the conversation.",
+      "isSuccessful": true
+    }
+  },
+  {
+    "id": "call-1758199419888",
+    "timestamp": "2025-09-18T12:43:39.888Z",
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello! I’m MediBot, your friendly medical intake assistant. How can I help you today? May I please have your Medical ID to get started?"
+      ],
+      [
+        "user",
+        "Medical ID is m p t zero zero one."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "user",
+        "M e d zero zero one."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. Could you please confirm your Medical ID one more time? Sometimes the format needs to be exact. Thank you!"
+      ],
+      [
+        "user",
+        "Zero zero one."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Sorry, I couldn't process that request. It"
+      ]
+    ],
+    "duration": null,
+    "metadata": {},
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfpei8d5001q45hm7d6vehqs",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "user_ended_call",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T12:42:44.825Z",
+      "endedAt": "2025-09-18T12:43:37.753Z",
+      "transcript": [
+        [
+          "user",
+          "Introduce yourself and ask user how can you help today"
+        ],
+        [
+          "assistant",
+          "Hello! I’m MediBot, your friendly medical intake assistant. How can I help you today? May I please have your Medical ID to get started?"
+        ],
+        [
+          "user",
+          "Medical ID is m p t zero zero one."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "user",
+          "M e d zero zero one."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Sorry, I couldn't process that request. Could you please confirm your Medical ID one more time? Sometimes the format needs to be exact. Thank you!"
+        ],
+        [
+          "user",
+          "Zero zero one."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Sorry, I couldn't process that request. It"
+        ]
+      ],
+      "summary": "MediBot introduces itself as a medical intake assistant and asks the user for their Medical ID to get started. The user provides various attempts at the ID (including \"m p t zero zero one\" and \"Zero zero one\"), but MediBot cannot process the input and asks for an exact format again. The call ends with the assistant reiterating the processing issue.",
+      "isSuccessful": false
+    }
+  },
+  {
+    "id": "call-1758199082914",
+    "timestamp": "2025-09-18T12:38:02.914Z",
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello, my name is Rachel and I’m with MedCare Connection. How can I assist you with your healthcare needs today?"
+      ],
+      [
+        "user",
+        "Check if the user is still there."
+      ],
+      [
+        "assistant",
+        "Hi, just checking in—are you still with me? If you have any questions or need assistance, I’m here to help!"
+      ],
+      [
+        "user",
+        "Check if the user is still there."
+      ],
+      [
+        "assistant",
+        "I just wanted to check if you’re still there. Is there anything I can help you with today?"
+      ],
+      [
+        "assistant",
+        "I will end the session now, goodbye!"
+      ]
+    ],
+    "duration": null,
+    "metadata": {},
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfpeased001l45hmsjjbnqyf",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "silence_timeout",
+      "direction": "inbound",
+      "createdAt": "2025-09-18T12:36:57.541Z",
+      "endedAt": "2025-09-18T12:38:00.626Z",
+      "transcript": [
+        [
+          "user",
+          "Introduce yourself and ask user how can you help today"
+        ],
+        [
+          "assistant",
+          "Hello, my name is Rachel and I’m with MedCare Connection. How can I assist you with your healthcare needs today?"
+        ],
+        [
+          "user",
+          "Check if the user is still there."
+        ],
+        [
+          "assistant",
+          "Hi, just checking in—are you still with me? If you have any questions or need assistance, I’m here to help!"
+        ],
+        [
+          "user",
+          "Check if the user is still there."
+        ],
+        [
+          "assistant",
+          "I just wanted to check if you’re still there. Is there anything I can help you with today?"
+        ],
+        [
+          "assistant",
+          "I will end the session now, goodbye!"
+        ]
+      ],
+      "summary": "The assistant introduced themselves as Rachel from MedCare Connection and offered to help with healthcare needs. They repeatedly checked whether the user was still present but did not address any specific requests. The session was ended by the assistant.",
+      "isSuccessful": true
+    }
+  }
+]

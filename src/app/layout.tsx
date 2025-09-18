@@ -24,9 +24,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className="bg-gray-100 p-6">
+        <h1 className="text-2xl font-bold mb-6">OpenMic Medical Intake Agent</h1>
+        <nav className="mb-4 space-x-4">
+          <a href="/" className="text-blue-500">Bots</a>
+          <a href="/calls" className="text-blue-500">Calls</a>
+        </nav>
         {children}
       </body>
     </html>
