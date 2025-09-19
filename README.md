@@ -22,6 +22,8 @@ Create a .env file in the root with:
 NEXT_PUBLIC_OPENMAP_API_KEY= #the api key
 
 
+
+
 ---
 
 ### To Use
