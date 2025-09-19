@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏥 OpenMic Medical Intake Assistant
 
-## Getting Started
+An AI-powered **medical intake assistant** that handles patient calls, transcribes call and saves call transcripts for later reference.  
+Built with **Next.js**, **TailwindCSS**, **TypeScript**, and **OpenMic API**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Frontend**: [Next.js](https://nextjs.org/), [React](https://react.dev/), [TailwindCSS](https://tailwindcss.com/)  
+- **Backend**: Next.js API Routes  
+- **AI**: OpenMic API   
+- **Other Tools**: [ngrok](https://ngrok.com/) for exposing localhost  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### Set up environment variables
 
-To learn more about Next.js, take a look at the following resources:
+Create a .env file in the root with:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+NEXT_PUBLIC_OPENMAP_API_KEY= #the api key
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### To Use
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Start the server (npm run dev).
+- Run ngrok to expose your local API: ngrok http 3000
+- Copy the ngrok URL into openmic's agents pre, post call and custom function
+- Open the app in your browser. localhost:3000
+- Initiate a call with the assistant in OpenMic's dashboard, talk to it then view the transcript in the Calls section in site.
+
+---
+
+
+
