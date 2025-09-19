@@ -1,5 +1,189 @@
 [
   {
+    "id": "call-1758255475457",
+    "timestamp": "2025-09-19T04:17:55.457Z",
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello! My name is MediBot, and I’m your friendly medical intake assistant. How can I help you today? If you’d like to access your medical records or schedule a follow-up, please provide your medical ID."
+      ],
+      [
+        "user",
+        "M e d one zero zero one."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Thank you for providing your medical ID. I found your record: you are 34 years old, allergic to some flowers, and your last visit was on 2025-09-01. You are currently taking Paracetamol.\n\nIs there anything specific you would like help with today, or would you like to schedule a follow-up appointment?"
+      ],
+      [
+        "user",
+        "Schedule a follow-up assignment"
+      ],
+      [
+        "assistant",
+        "I can help you with that. Do you have a preferred date and time for your follow-up appointment, or would you like me to suggest the next available slot?"
+      ],
+      [
+        "user",
+        "Just need the next available slot."
+      ],
+      [
+        "assistant",
+        "Thank you for letting me know. I will note your request for the next available slot for a follow-up appointment."
+      ],
+      [
+        "user",
+        "This is how it works now. I will close it."
+      ]
+    ],
+    "duration": null,
+    "metadata": {},
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfqbv2do00al45hm1xnv63fi",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "user_ended_call",
+      "direction": "inbound",
+      "createdAt": "2025-09-19T04:16:30.924Z",
+      "endedAt": "2025-09-19T04:17:52.347Z",
+      "transcript": [
+        [
+          "user",
+          "Introduce yourself and ask user how can you help today"
+        ],
+        [
+          "assistant",
+          "Hello! My name is MediBot, and I’m your friendly medical intake assistant. How can I help you today? If you’d like to access your medical records or schedule a follow-up, please provide your medical ID."
+        ],
+        [
+          "user",
+          "M e d one zero zero one."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Thank you for providing your medical ID. I found your record: you are 34 years old, allergic to some flowers, and your last visit was on 2025-09-01. You are currently taking Paracetamol.\n\nIs there anything specific you would like help with today, or would you like to schedule a follow-up appointment?"
+        ],
+        [
+          "user",
+          "Schedule a follow-up assignment"
+        ],
+        [
+          "assistant",
+          "I can help you with that. Do you have a preferred date and time for your follow-up appointment, or would you like me to suggest the next available slot?"
+        ],
+        [
+          "user",
+          "Just need the next available slot."
+        ],
+        [
+          "assistant",
+          "Thank you for letting me know. I will note your request for the next available slot for a follow-up appointment."
+        ],
+        [
+          "user",
+          "This is how it works now. I will close it."
+        ]
+      ],
+      "summary": "The assistant retrieved the user’s medical record (Age 34, allergic to some flowers, last visit 2025-09-01, currently taking Paracetamol) after the user provided their medical ID. The user requested to schedule a follow-up and asked for the next available slot. The assistant confirmed the request for the next available appointment, and the user indicated they would close the session.",
+      "isSuccessful": false
+    }
+  },
+  {
+    "id": "call-1758255235500",
+    "timestamp": "2025-09-19T04:13:55.500Z",
+    "transcript": [
+      [
+        "user",
+        "Introduce yourself and ask user how can you help today"
+      ],
+      [
+        "assistant",
+        "Hello, I’m MediBot, your friendly medical intake assistant. How can I help you today? If you’d like to access your medical records or schedule a follow-up, please provide your medical ID."
+      ],
+      [
+        "user",
+        "M e d one zero zero one."
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "assistant",
+        "Thank you for providing your medical ID. I found your"
+      ]
+    ],
+    "duration": null,
+    "metadata": {},
+    "function_results": null,
+    "raw": {
+      "type": "end-of-call-report",
+      "sessionId": "cmfqbqyci00ai45hm30feiccq",
+      "toPhoneNumber": "Web-Call-1167",
+      "fromPhoneNumber": "Web-Client-1167",
+      "callType": "webcall",
+      "disconnectionReason": "user_ended_call",
+      "direction": "inbound",
+      "createdAt": "2025-09-19T04:13:19.074Z",
+      "endedAt": "2025-09-19T04:13:52.630Z",
+      "transcript": [
+        [
+          "user",
+          "Introduce yourself and ask user how can you help today"
+        ],
+        [
+          "assistant",
+          "Hello, I’m MediBot, your friendly medical intake assistant. How can I help you today? If you’d like to access your medical records or schedule a follow-up, please provide your medical ID."
+        ],
+        [
+          "user",
+          "M e d one zero zero one."
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "assistant",
+          "Thank you for providing your medical ID. I found your"
+        ]
+      ],
+      "summary": "The assistant introduced itself as MediBot and offered help, including accessing medical records or scheduling a follow-up. The user provided their medical ID (Med1001). The assistant acknowledged the ID and indicated it would retrieve the records.",
+      "isSuccessful": true
+    }
+  },
+  {
     "id": "cmfpm6ius004345hmi74fqkd1",
     "timestamp": "2025-09-18T16:18:56.078Z",
     "transcript": [

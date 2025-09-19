@@ -56,7 +56,7 @@ export default function BotList() {
     <div className="space-y-2">
       {bots.length === 0 && <div className="text-gray-500">No bots</div>}
       {bots.map(b => (
-        <div key={b.id || b.uid} className="p-3 bg-white rounded shadow flex justify-between items-center">
+        <div key={b.id || b.uid} className="p-3 bg-gray-700 rounded shadow flex justify-between items-center">
           <div>
             <div className="font-semibold">{b.name || b.title}</div>
             <div className="text-xs text-gray-500">{b.domain || b.meta?.domain} • {b.id || b.uid}</div>

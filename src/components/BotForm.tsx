@@ -10,7 +10,10 @@ export default function BotForm({ onCreated }: { onCreated: () => void }) {
 
   async function submit(e: React.FormEvent) {
     e.preventDefault()
-    if (!name || !prompt) { setError('Name and prompt required'); return }
+    if (!name || !prompt) { 
+      setError('Name and prompt required'); 
+      return 
+    }
     setLoading(true); setError('')
     try {
       const res = await fetch('/api/bots', {
@@ -33,7 +36,7 @@ export default function BotForm({ onCreated }: { onCreated: () => void }) {
   }
 
   return (
-    <form onSubmit={submit} className="space-y-2 bg-white p-4 rounded-xl shadow">
+    <form onSubmit={submit} className="space-y-2 bg-gray-700 p-4 rounded-xl shadow">
       <input value={name} onChange={e=>setName(e.target.value)} className="w-full border p-2" />
       <select value={domain} onChange={e=>setDomain(e.target.value)} className="w-full border p-2">
         <option value="medical">Medical</option>
